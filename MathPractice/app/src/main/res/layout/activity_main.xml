@@ -1,0 +1,45 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="@string/welcome"
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding = "20dp"
+        />
+
+    <EditText
+        android:id="@+id/enter_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_gravity="center_horizontal"
+        tools:text="@string/your_name"
+
+        />
+    <Button
+        android:id="@+id/begin_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:padding="30dp"
+        android:text="Begin Quiz" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="343dp"
+        android:layout_marginTop="20dp"
+        android:padding="30dp"
+        android:src="@drawable/funmath"
+        />
+
+</LinearLayout>

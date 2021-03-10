@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="title_hint">Enter a title for the crime!</string>
+    <string name="task_title">Task:</string>
+    <string name="task_description">Task Description:</string>
+    <string name="task_completed">Complete</string>
+    <string name="new_task">New Task</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Famous Mathematicains Quiz</string>
+    <string name="btnResults">RESULTS</string>
+    <string name="question">Question</string>
+    <string name="btnNext">Next</string>
+    <string name="your_name">Please Type Your Name</string>
+
+    <string name="welcome">"Welcome! What is your name?"</string>
+
+    <string name="answer1">ALBERT EINSTEIN</string>
+    <string name="answer2">ISAAC NEWTON</string>
+    <string name="answer3">PIERRE LAPLACE</string>
+    <string name="answer4">LEONHARD EULER</string>
+
+    <string name="show_result">Click on the Result Button</string>
+    <string name="question_1">Who discovered the General Principle of Relativity?</string>
+<!--    Albert Einstein-->
+    <string name="question_2">What mathematician was born in Lincolnshire, England? </string>
+<!--    Isaac Newton-->
+    <string name="question_3">What mathematician was part of the Royal Swedish Academy of Science?</string>
+<!--    Pierre Laplace-->
+    <string name="question_4">What famous mathematician took a position at the Imperial Russian Academy of Sciences? </string>
+<!--    Leonhard Euler-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong Answer</string>
+
+</resources>
+

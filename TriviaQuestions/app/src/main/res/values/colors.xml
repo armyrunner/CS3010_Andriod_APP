@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  for the main activity and card layout   -->
+
+    <color name="colorPrimary">#8F4426</color>
+    <color name="colorPrimaryDark">#458fff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackGround">#FFE5B4</color>
+
+    <!--    for the sunset animation screen -->
+
+    <color name="bright_sun">#fcfcb7</color>
+    <color name="blue_sky">#1e7ac7</color>
+    <color name="sunset_sky">#ec8100</color>
+    <color name="night_sky">#05192E</color>
+    <color name="sea">#224869</color>
+
+    <color name="colorBackground">#FFFF5500</color>
+    <color name="colorPaint">#FFFFEB3B</color>
+
+
+</resources>
